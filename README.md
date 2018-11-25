@@ -13,7 +13,7 @@ example:
 :Hello
 :Hi
 
-The other files don't need :
+The other files don't need ':'
 
 data16 - data22.txt are response files.
 
