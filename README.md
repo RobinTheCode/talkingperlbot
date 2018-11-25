@@ -1,4 +1,5 @@
 # talkingperlbot
+For HEXCHAT!
 A Bot Project that talks back to you in Perl
 Written by Thauma
 
