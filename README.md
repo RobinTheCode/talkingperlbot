@@ -2,6 +2,8 @@
 A Bot Project that talks back to you in Perl
 Written by Thauma
 
+Change the file path to your .txt files and the #roomname.
+
 Add Trigger Words to data1 - data12.txt files.
 
 data1, data5 and data9.txt must start with ':'
