@@ -15,7 +15,7 @@ example:
 
 The other files don't need :
 
-data16 - data22.txt are respose files.
+data16 - data22.txt are response files.
 
 Add your responses as follows
 example:
